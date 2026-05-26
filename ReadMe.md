@@ -7,5 +7,3 @@ I think that's the easiest way for now.
 
 If, in addition to stuff in Wiki, you come up with your own ideas and suggestions about features and capabilities for new version - we welcome it, share this in a post, let's discuss it. 
 
-thank you 
-Roman 
